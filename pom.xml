@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.springframework</groupId>
 	<artifactId>pet-clinic</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>pet-clinic</name>
 	<description>Pet Clinic Using SpringBoot Framework</description>
 	<properties>
@@ -25,7 +25,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/kimleyrafallo/pet-clinic.git</developerConnection>
-	  <tag>pet-clinic-0.0.2</tag>
+	  <tag>pet-clinic-0.0.1</tag>
   </scm>
 
 	<build>
