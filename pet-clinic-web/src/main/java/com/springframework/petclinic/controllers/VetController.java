@@ -19,7 +19,7 @@ public class VetController {
     public String listOfVets(Model model){
 
         model.addAttribute("vets", vetService.findAll());
-
+        
         return "vets/index";
     }
 }
