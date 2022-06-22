@@ -5,6 +5,7 @@ import java.util.Set;
 import com.springframework.petclinic.model.Specialty;
 import com.springframework.petclinic.services.SpecialtyService;
 
+@Service
 public class SpecialtyServiceMap extends AbstractMapService<Specialty, Long> implements SpecialtyService {
 
     @Override
