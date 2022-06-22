@@ -2,6 +2,8 @@ package com.springframework.petclinic.services.map;
 
 import java.util.Set;
 
+import org.springframework.stereotype.Service;
+
 import com.springframework.petclinic.model.Specialty;
 import com.springframework.petclinic.services.SpecialtyService;
 
