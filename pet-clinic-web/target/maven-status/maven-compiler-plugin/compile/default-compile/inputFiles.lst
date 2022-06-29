@@ -1,5 +1,5 @@
-C:\Users\Kimley\repos\springboot\pet-clinic\pet-clinic-web\src\main\java\com\springframework\petclinic\bootstrap\DataLoader.java
-C:\Users\Kimley\repos\springboot\pet-clinic\pet-clinic-web\src\main\java\com\springframework\petclinic\controllers\OwnerController.java
-C:\Users\Kimley\repos\springboot\pet-clinic\pet-clinic-web\src\main\java\com\springframework\petclinic\controllers\IndexController.java
-C:\Users\Kimley\repos\springboot\pet-clinic\pet-clinic-web\src\main\java\com\springframework\petclinic\PetClinicApplication.java
-C:\Users\Kimley\repos\springboot\pet-clinic\pet-clinic-web\src\main\java\com\springframework\petclinic\controllers\VetController.java
+/home/kimley/repos/pet-clinic/pet-clinic-web/src/main/java/com/springframework/petclinic/PetClinicApplication.java
+/home/kimley/repos/pet-clinic/pet-clinic-web/src/main/java/com/springframework/petclinic/controllers/IndexController.java
+/home/kimley/repos/pet-clinic/pet-clinic-web/src/main/java/com/springframework/petclinic/controllers/OwnerController.java
+/home/kimley/repos/pet-clinic/pet-clinic-web/src/main/java/com/springframework/petclinic/controllers/VetController.java
+/home/kimley/repos/pet-clinic/pet-clinic-web/src/main/java/com/springframework/petclinic/bootstrap/DataLoader.java
